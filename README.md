@@ -31,3 +31,5 @@ Provided is a JSON file that contains a data set of location information for pro
 Test that your program has the following functionality:
 
 + No tests are required for this lab.
+
+![Screenshot](./Assets/Screenshot.png)
