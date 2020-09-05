@@ -1,5 +1,5 @@
 # Linq
-![.NET Core](https://github.com/ArikMackenburg/Linq/workflows/.NET%20Core/badge.svg)
+![.NET Core](https://github.com/ArikMackenburg/Linq/workflows/.NET%20Core/badge.svg?branch=master)
 ## The Problem Domain
 Create a program that brings in data from an external file, reads the data, and can filter the data based on specified values.
 
@@ -32,4 +32,5 @@ Test that your program has the following functionality:
 
 + No tests are required for this lab.
 
+### Screenshot
 ![Screenshot](./Assets/Screenshot.png)
